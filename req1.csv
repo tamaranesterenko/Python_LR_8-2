@@ -1,10 +1,10 @@
-year,sector,class
-2009,"Central government",Total
-2010,"Central government",Total
-2011,"Central government",Total
-2012,"Central government",Total
-2013,"Central government",Total
-2014,"Central government",Total
-2015,"Central government",Total
-2016,"Central government",Total
-2017,"Central government",Total
+[{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"Central government","class":"Total"},
+{"year":"2018","sector":"General government","class":"Total"},
+{"year":"2018","sector":"General government","class":"Total"},
+{"year":"2018","sector":"General government","class":"Total"},
+{"year":"2018","sector":"General government","class":"Total"}]
